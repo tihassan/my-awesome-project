@@ -2,3 +2,15 @@ h1 {
   text-align: center;
   color: blue;
 }
+
+.form-input {
+  text-align: center;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 0 100px;
+  width: 420px;
+  border-radius: 4px;
+}
